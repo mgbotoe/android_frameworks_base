@@ -1455,4 +1455,7 @@
          performance profiles  -->
     <string name="config_perf_profile_default_entry" translatable="false"></string>
 
+    <!-- True if the Irda service should be started at system start -->
+   <bool name="config_enableIrdaManagerService">false</bool>
+
 </resources>

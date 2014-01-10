@@ -36,6 +36,7 @@ int register_android_server_location_GpsLocationProvider(JNIEnv* env);
 int register_android_server_location_FlpHardwareProvider(JNIEnv* env);
 int register_android_server_connectivity_Vpn(JNIEnv* env);
 int register_android_server_AssetAtlasService(JNIEnv* env);
+
 };
 
 using namespace android;
